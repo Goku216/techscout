@@ -5,7 +5,7 @@ import Logo from "../assets/TechScout.png";
 export const Header = () => {
   return (
     <>
-      <nav className="max-w-screen-xl m-auto bg-white border-gray-200 dark:bg-gray-900">
+      <nav className="max-w-screen-2xl m-auto bg-white border-gray-200 dark:bg-gray-900">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 border-b-gray-600 border-b-4">
           <NavLink
             to="/"

@@ -5,7 +5,7 @@ import "./HomePage.css";
 
 export const HomePage = () => {
   return (
-    <div className="max-w-screen-xl m-auto min-h-[90vh] bg-white border-gray-200 dark:bg-gray-900">
+    <div className="max-w-screen-2xl m-auto min-h-[90vh] bg-white border-gray-200 dark:bg-gray-900">
       <h1 className="jaro-font pt-8 text-slate-300 text-center text-7xl">
         TechScout Picks
       </h1>

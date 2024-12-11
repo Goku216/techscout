@@ -5,7 +5,7 @@ import Img4 from "../assets/4.png";
 
 export const Blog = () => {
   return (
-    <div className="max-w-screen-xl m-auto min-h-[90vh]  bg-white border-gray-200 dark:bg-gray-900">
+    <div className="max-w-screen-2xl m-auto min-h-[90vh]  bg-white border-gray-200 dark:bg-gray-900">
       <h1 className="text-4xl font-sans text-white p-4 px-8">
         Acer Nitro 5 AN515-58-525P Gaming Laptop Review: Power, Performance, and
         Precision
