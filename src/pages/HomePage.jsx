@@ -1,7 +1,7 @@
 import AcerNitro5 from "../assets/4.png";
 import Button from "../components/Button";
 import { Link } from "react-router-dom";
-import "./Homepage.css";
+import "./HomePage.css";
 
 export const HomePage = () => {
   return (
